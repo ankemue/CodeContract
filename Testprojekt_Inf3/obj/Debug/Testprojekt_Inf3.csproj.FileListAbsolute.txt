@@ -1,0 +1,5 @@
+c:\users\anke\documents\visual studio 2013\Projects\Testprojekt_Inf3\Testprojekt_Inf3\bin\Debug\Testprojekt_Inf3.exe.config
+c:\users\anke\documents\visual studio 2013\Projects\Testprojekt_Inf3\Testprojekt_Inf3\bin\Debug\Testprojekt_Inf3.exe
+c:\users\anke\documents\visual studio 2013\Projects\Testprojekt_Inf3\Testprojekt_Inf3\bin\Debug\Testprojekt_Inf3.pdb
+c:\users\anke\documents\visual studio 2013\Projects\Testprojekt_Inf3\Testprojekt_Inf3\obj\Debug\Testprojekt_Inf3.exe
+c:\users\anke\documents\visual studio 2013\Projects\Testprojekt_Inf3\Testprojekt_Inf3\obj\Debug\Testprojekt_Inf3.pdb
